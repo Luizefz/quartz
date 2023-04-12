@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "1c72fadb2e9b081f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b721c7b2bbf43f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3443f74408084abc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1408d159b910d274",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fbabafffc4e4eff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1d93ec57f3a4abd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7f0634d6fdd72e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21e1eb4dd54cde42",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "871a8701c3437740",
+    "type": "split",
+    "children": [
+      {
+        "id": "e39acaaed1184c60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be45b7101fdc3099",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3e8dfa7555ea382",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f8e77a893ca78d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "56ea00dcc6e57142",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3443f74408084abc",
+  "lastOpenFiles": [
+    "Class Brain/First anotation on my brain.md",
+    "Teste/T.md",
+    "Class Brain",
+    "Untitled.md",
+    "Teste"
+  ]
+}
